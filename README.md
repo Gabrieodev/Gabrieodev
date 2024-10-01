@@ -1,12 +1,12 @@
-<h1 align="left">Hello !! My name is Gabriel</h1>
+<h1 align="left">Olá !! Eu sou o Gabriel</h1>
 
 ###
 
-<h2 align="left">About me...</h2>
+<h2 align="left">Sobre mim...</h2>
 
 ###
 
-<p align="left">📚 Studying JavaScript<br>🎓 I'm graduating in IT Management this year<br>💻 Front-End Developer</p>
+<p align="left">📚 Estudando Javascript<br>🎓 Me formo em Gestão de T.I esse ano<br>💻 Desenvolvedor Front-End</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h5 align="left">🌐 Let's connect</h5>
+<h5 align="left">🌐 Vamos nos conectar</h5>
 
 ###
 
