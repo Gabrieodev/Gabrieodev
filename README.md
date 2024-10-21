@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/gabriel-almeida-de-azevedo-9b16b5281" target="_blank">
+  <a [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](http://linkedin.com/in/gabriel-almeida-de-azevedo-9b16b5281)
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="Gab.almeidaazevedo@gmai.com" target="_blank">
