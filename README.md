@@ -39,9 +39,9 @@
 ###
 
 <div align="left">
-  <a [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](http://linkedin.com/in/gabriel-almeida-de-azevedo-9b16b5281)
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](http://linkedin.com/in/gabriel-almeida-de-azevedo-9b16b5281)
+
   <a href="Gab.almeidaazevedo@gmai.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
