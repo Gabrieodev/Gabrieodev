@@ -42,7 +42,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](http://linkedin.com/in/gabriel-almeida-de-azevedo-9b16b5281)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gab_almeidaazevedo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gab.almeidaazevedo@gmail.com)
+
 </div>
 
 ###
