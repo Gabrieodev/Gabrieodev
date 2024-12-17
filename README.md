@@ -1,25 +1,24 @@
-<h1 align="center">Olá !! Eu sou o Gabriel</h1>
+### 🚀 **Sobre Mim**  
+Olá! Me chamo **Gabriel** e sou **Desenvolvedor Front-End** em início de carreira, apaixonado por tecnologia e inovação.
 
-###
+- 🎯 **Habilidades**: Desenvolvimento de páginas web, sites responsivos e sistemas interativos.  
+- 🎓 **Formação**: Gestão de TI | Cursando Ciência da Computação.  
+- 🌐 **Idiomas**: Inglês Avançado.  
+- 🛠 **Tecnologias**: HTML | CSS | JavaScript | Git | GitHub.  
+- 💼 **O que ofereço**: Criação de soluções digitais para negócios e projetos pessoais.  
 
-<h2 align="center">Sobre mim...</h2>
+Estou sempre em busca de aprendizado e pronto para colaborar em novos desafios! 🚀  
 
-###
-
-<p align="center">📚  Estudando Javascript<br>🎓 Me formo em Gestão de T.I esse ano<br>💻 Desenvolvedor Front-End</p>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrieodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Git%20Hub%20States" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrieodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrieodev&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribuition%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrieodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1&custom_title=Git%20Hub%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrieodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-###
+---
 
-<h2 align="center"> Minhas Habilidades </h2>
-
+### 🛠 **Tecnologias e Ferramentas**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -36,15 +35,17 @@
 
 ###
 
-<h5 align="center">🌐 Vamos nos conectar !</h5>
-
-###
-
 <div align="center">
 
+---
+
+### 🌐 **Vamos Conectar**
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](http://linkedin.com/in/gabriel-almeida-de-azevedo-9b16b5281)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gab_almeidaazevedo)
-<a href="mailto:gab.almeidaazevedo@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+[![E-mail](https://img.shields.io/badge/-E--mail-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6ED2B6)](mailto:gab.almeidaazevedo@gmail.com)
+
+</div>
+
 
 ###
