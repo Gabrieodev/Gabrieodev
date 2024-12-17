@@ -40,12 +40,10 @@ Estou sempre em busca de aprendizado e pronto para colaborar em novos desafios! 
 ---
 
 ### 🌐 **Vamos Conectar**
-<div align="center">
+
+<div align="center" heigth="40">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](http://linkedin.com/in/gabriel-almeida-de-azevedo-9b16b5281)
-[![E-mail](https://img.shields.io/badge/-E--mail-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6ED2B6)](mailto:gab.almeidaazevedo@gmail.com)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/gabriel-almeida-de-azevedo-9b16b5281)
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:gab.almeidaazevedo@gmail.com)
 
 </div>
-
-
-###
