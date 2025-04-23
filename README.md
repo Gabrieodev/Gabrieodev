@@ -3,7 +3,7 @@
 
 - 🎯 **Habilidades**: Desenvolvimento de páginas web, interfaces responsivas e sistemas interativos.  
 - 🎓 **Formação**: 🎓 Gestão de TI | 📚 Cursando Ciência da Computação.  
-- 🌐 **Idiomas**: 🗣️ Inglês Avançado.    
+- 🌐 **Idiomas**: 🗣️ Inglês Intermediário.    
 - 💡 **Diferenciais**: Criatividade, adaptação rápida e foco em soluções inovadoras.  
 - 💼 **O que ofereço**: 🚀 Desenvolvimento de aplicações escaláveis e eficientes para negócios e projetos pessoais.  
   
