@@ -17,7 +17,7 @@ Estou sempre em busca de aprendizado e pronto para colaborar em novos desafios! 
 ![Gabrieodev GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieodev&show_icons=true&bg_color=00000000)
 
 ### 🛠 **Tecnologias utilizadas**
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,mysql,mongodb,html,css,js,nodejs,angular,azure,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,mysql,mongodb,html,css,js,ts,nodejs,angular,azure,git,github)](https://skillicons.dev)
 
 
 
