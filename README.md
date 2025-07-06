@@ -11,4 +11,22 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2727d206-dfca-4b85-a587-aec5ec77b9f8"
+      alt="Captura de tela 2025-07-06 154530"
+      style="width:90%; height:auto; max-height:150px; object-fit:contain;" />
+</div>
+
+<div align="center">
+  <h2>About Me</h2>
+
+  <p>
+    I am Brazilian, 22 years old, graduated in IT Management, and currently pursuing a degree in Computer Science. I have experience creating interactive, responsive, and modern web pages using front-end development frameworks. I also work with creating and consuming RESTful APIs, ensuring efficient communication between systems, and I apply code versioning practices with Git and GitHub.
+  </p>
+  <p>
+    Through this ongoing journey of learning and development, I am always open to new opportunities and challenges that allow me to grow professionally and contribute to inspiring teams and projects.
+  </p>
+</div>
+
+
 <br><br>
