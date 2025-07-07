@@ -32,26 +32,31 @@
 <br>
 
 <div align="center">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrieodev&theme=midnight_purple" 
-    alt="Top Languages"
-    style="width: 350px; height: auto; "/>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrieodev&theme=midnight_purple" 
-    alt="Stats Card"
-    style=" width: 350px; height: auto; display: "/>
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrieodev&theme=midnight_purple" 
-    alt="Profile Details"
-    style="margin: 10px; width: 750px; height: auto;"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabrieodev&theme=midnight-purple&hide_border=true&border_radius=5&short_numbers=true" 
-      alt="GitHub Streak" 
-      style="margin: 10px; width: 650px; height: auto;"/>
-  </a>
-</div>
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrieodev&theme=midnight_purple" 
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrieodev&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrieodev&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Gabrieodev&theme=midnight-purple&hide_border=true&border_radius=5&short_numbers=true&card_width=885"
+  />
+  </div>
