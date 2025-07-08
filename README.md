@@ -82,3 +82,18 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=gabrieodev&theme=midnight_purple&card_width=885&hide_border=true"
   />
   </div>
+
+<div align="center">
+  <h3>Contact Me</h3>
+  <p><em>Feel free to reach out through any of the platforms below:</em></p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
+    <a href="https://wa.me/11943503438" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Whatsapp-10041F?style=for-the-badge&logo=Whatsapp&logoColor=ffffff" alt="WhatsApp"/></a>
+    <a href="https://www.linkedin.com/in/gabriazevedo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Linkedin-10041F?style=for-the-badge&logo=Linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
+    <a href="mailto:gab.almeidaazevedol@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-10041F?style=for-the-badge&logo=Gmail&logoColor=ffffff" alt="Gmail"/></a>
+    <a href="https://gabrieodev.github.io/Meu-Portifolio/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-10041F?style=for-the-badge&logo=firefox&logoColor=ffffff" alt="Portfolio"/></a>
+  </div>
+</div>
+
+  </div>
+</div>
+
