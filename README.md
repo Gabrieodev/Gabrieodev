@@ -35,20 +35,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrieodev&theme=midnight_purple" 
+    src="https://github-readme-stats.vercel.app/api/?username=gabrieodev&show_icons=true&count_private=true&rank_icon=github&theme=midnight_purple"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrieodev&theme=midnight_purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&font=Iosevka&langs_count=16&theme=midnight_purple"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrieodev&theme=midnight_purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieodev&theme=midnight_purple"
   />
   <br>
   <br>
@@ -56,6 +56,6 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Gabrieodev&theme=midnight-purple&hide_border=true&border_radius=5&short_numbers=true&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=gabrieodev&theme=midnight_purple&card_width=885"
   />
   </div>
