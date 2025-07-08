@@ -1,9 +1,9 @@
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/8d8e908e-fcf6-4041-98c1-8e60f910908e" 
+    src="https://github.com/user-attachments/assets/0f9f923e-d8b7-462d-9691-6d2d8aff1da8" 
     alt="Captura de tela 2025-07-07 211105"
     style="width: 100%;"
-    
+
 </div>
 
 <div align="center">
