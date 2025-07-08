@@ -35,13 +35,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=gabrieodev&show_icons=true&count_private=true&rank_icon=github&theme=midnight_purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieodev&show_icons=true&count_private=true&rank_icon=github&theme=midnight_purple"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&font=Iosevka&langs_count=16&theme=midnight_purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple&hide_border=true"
   />
   <br>
   <br>
@@ -56,6 +56,6 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=gabrieodev&theme=midnight_purple&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=gabrieodev&theme=midnight_purple&card_width=885&hide_border=true"
   />
   </div>
