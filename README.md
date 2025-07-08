@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=4000&pause=1000&color=523576&center=true&vCenter=true&width=2000&lines=%3E+Hello%2C+I%E2%80%99m+Gabriel...;%3E+Studying+Computer+Science+and+coding+my+future!" 
+      src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=4000&pause=1000&color=523576&center=true&vCenter=true&width=800&lines=%3E+Hello%2C+I%E2%80%99m+Gabriel...;%3E+Studying+Computer+Science+and+coding+my+future!" 
       alt="Typing SVG"
       style="width: 100%;"
     />
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h2>About Me</h2>
+  <h1>About Me</h2>
 
   <p>
     I am Brazilian, 22 years old, graduated in IT Management, and currently pursuing a degree in Computer Science. I have experience creating interactive, responsive, and modern web pages using front-end development frameworks. I also work with creating and consuming RESTful APIs, ensuring efficient communication between systems, and I apply code versioning practices with Git and GitHub.
@@ -25,6 +25,29 @@
   <p>
     Through this ongoing journey of learning and development, I am always open to new opportunities and challenges that allow me to grow professionally and contribute to inspiring teams and projects.
   </p>
+</div>
+
+<div align="center">
+  <h2>Tech Stack & Tools</h2>
+  <p><em>These are some of the technologies and tools I use in my daily workflow.</em></p>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+  </div>
 </div>
 
 <br>
