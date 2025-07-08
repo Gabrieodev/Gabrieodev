@@ -1,9 +1,4 @@
-<div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/d4b03aff-e4f2-4477-8a93-3727546037c6" 
-    alt="Captura de tela 2025-07-07 211105"
-    style="width: 100%;"
-</div>
+
 
 <br>
 </br>
