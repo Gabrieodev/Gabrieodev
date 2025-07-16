@@ -8,14 +8,12 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
 <h2>Sobre mim 🚀</h2>
 
 <ul>
-  <li>🎓 Graduado em <strong>Gestão de TI</strong> e estudante de <strong>Ciência da Computação</strong>, com uma jornada focada em transformar conhecimento técnico em soluções reais e escaláveis.</li>
-  <li>☕ Desenvolvedor em formação com experiência prática em <strong>Java</strong> e <strong>Spring Boot</strong>, criando APIs RESTful robustas, com foco em boas práticas como <code>Clean Code</code>, versionamento com <strong>Git/GitHub</strong> e arquitetura MVC.</li>
-  <li>🌐 Já desenvolvi projetos em <strong>HTML, CSS e JavaScript</strong>, com foco na responsividade, usabilidade e performance. Também tenho conhecimento em <strong>Banco de Dados SQL</strong> e modelagem relacional.</li>
-  <li>📦 Experiência com <strong>GitHub Actions</strong>, integração contínua e organização de projetos utilizando <code>issues</code>, <code>pull requests</code> e <code>branches</code> bem definidas.</li>
-  <li>📚 Estou aprofundando meus conhecimentos em <strong>desenvolvimento fullstack</strong>, com ênfase em frameworks modernos e arquitetura de microsserviços.</li>
-  <li>🎯 Apaixonado por resolver problemas com tecnologia e criar soluções que gerem impacto. Tenho como objetivo atuar em projetos desafiadores, colaborando com equipes de alto desempenho.</li>
+  <li>🎓 Graduado em Gestão de TI e estudante de Ciência da Computação, com foco em desenvolvimento de software e soluções escaláveis.</li>
+  <li>💻 Experiência em desenvolvimento de APIs REST com Java e Spring Boot, aplicando arquitetura MVC, camadas de serviço e boas práticas.</li>
+  <li>🌐 Projetos web com Angular, HTML, CSS, Javascript e NodeJS, priorizando responsividade e usabilidade.</li>
+  <li>🔧 Práticas DevOps com Docker para conteinerização de aplicações Java, versionamento com Git e automação com GitHub Actions.</li>
+  <li>☁️ Conhecimento em computação em nuvem com Microsoft Azure, incluindo App Services, Azure SQL e pipelines de CI/CD.</li>
 </ul>
-
 
 <div align="center">
   <img
