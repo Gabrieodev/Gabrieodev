@@ -8,13 +8,20 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
 <h2>Sobre mim 🚀</h2>
 
 <ul>
-  <li>🎓 Graduado em Gestão de TI e estudante de Ciência da Computação, com foco em desenvolvimento de software e soluções escaláveis.</li>
-  <li>💻 Experiência em desenvolvimento de APIs REST com Java e Spring Boot, aplicando arquitetura MVC, camadas de serviço e boas práticas.</li>
-  <li>🌐 Projetos web com Angular, HTML, CSS, Javascript e NodeJS, priorizando responsividade e usabilidade.</li>
-  <li>🔧 Práticas DevOps com Docker para conteinerização de aplicações Java, versionamento com Git e automação com GitHub Actions.</li>
-  <li>☁️ Conhecimento em computação em nuvem com Microsoft Azure, incluindo App Services, Azure SQL e pipelines de CI/CD.</li>
+  <li>🎓 Formado em Gestão de TI e graduando em Ciência da Computação.</li>
+  <li>🖥️ Crio páginas web responsivas, úteis e funcionais.</li>
+  <li>☁️ Com experiência em Java com Spring Boot e noções de DevOps.</li>
+  <li>✨ Apaixonado por tecnologia e sempre em busca de aprender e encarar novos desafios.</li>
+  <li>💡 Desenvolvo projetos autorais, compartilho aprendizados e busco soluções que gerem impacto real.</li>
 </ul>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <div align="center">
   <img
     height=165
