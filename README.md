@@ -15,13 +15,6 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
   <li>💡 Desenvolvo projetos autorais, compartilho aprendizados e busco soluções que gerem impacto real.</li>
 </ul>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 <div align="center">
   <img
     height=165
