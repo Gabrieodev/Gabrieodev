@@ -1,60 +1,21 @@
-<div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/d4b03aff-e4f2-4477-8a93-3727546037c6" 
-    alt="Captura de tela 2025-07-07 211105"
-    style="width: 100%;"
-</div>
+<div align="left">
+<h1>Olá, sou Gabriel Azevedo 👋</h1>
 
-<br>
-</br>
+<p>
+Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ciência da Computação. Transformo café em código e ideias em soluções reais. Tenho experiência com Java e Spring Boot, desenvolvendo APIs robustas que conectam sistemas e pessoas. 
+</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=24&duration=4000&pause=1000&color=523576&center=true&vCenter=true&width=700&lines=%3E+Hello%2C+I%E2%80%99m+Gabriel...;%3E+Studying+Computer+Science+and+coding+my+future!" 
-      alt="Typing SVG"
-      style="width: 100%;"
-    />
-  </a>
-</div>
+<h2>Sobre mim 🚀</h2>
 
+<ul>
+  <li>🎓 Graduado em <strong>Gestão de TI</strong> e estudante de <strong>Ciência da Computação</strong>, com uma jornada focada em transformar conhecimento técnico em soluções reais e escaláveis.</li>
+  <li>☕ Desenvolvedor em formação com experiência prática em <strong>Java</strong> e <strong>Spring Boot</strong>, criando APIs RESTful robustas, com foco em boas práticas como <code>Clean Code</code>, versionamento com <strong>Git/GitHub</strong> e arquitetura MVC.</li>
+  <li>🌐 Já desenvolvi projetos em <strong>HTML, CSS e JavaScript</strong>, com foco na responsividade, usabilidade e performance. Também tenho conhecimento em <strong>Banco de Dados SQL</strong> e modelagem relacional.</li>
+  <li>📦 Experiência com <strong>GitHub Actions</strong>, integração contínua e organização de projetos utilizando <code>issues</code>, <code>pull requests</code> e <code>branches</code> bem definidas.</li>
+  <li>📚 Estou aprofundando meus conhecimentos em <strong>desenvolvimento fullstack</strong>, com ênfase em frameworks modernos e arquitetura de microsserviços.</li>
+  <li>🎯 Apaixonado por resolver problemas com tecnologia e criar soluções que gerem impacto. Tenho como objetivo atuar em projetos desafiadores, colaborando com equipes de alto desempenho.</li>
+</ul>
 
-<div align="center">
-  <h1>About Me</h2>
-
-  <p>
-    I am Brazilian, 22 years old, graduated in IT Management, and currently pursuing a degree in Computer Science. I have experience creating interactive, responsive, and modern web pages using front-end development frameworks. I also work with creating and consuming RESTful APIs, ensuring efficient communication between systems, and I apply code versioning practices with Git and GitHub.
-  </p>
-  <p>
-    Through this ongoing journey of learning and development, I am always open to new opportunities and challenges that allow me to grow professionally and contribute to inspiring teams and projects.
-  </p>
-</div>
-
-<div align="center">
-  <h2>Tech Stack & Tools</h2>
-  <p><em>These are some of the technologies and tools I use in my daily workflow.</em></p>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
-  </div>
-</div>
-
-<br>
-<br>
 
 <div align="center">
   <img
