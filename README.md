@@ -42,20 +42,9 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-top: 60px;">
-  <div style="flex: 1; min-width: 280px; max-width: 600px;">
-    <p>
-      Sou formado em <strong>Gestão de TI</strong> e atualmente curso <strong>Ciência da Computação</strong>.<br><br>
-      Tenho me aprofundado em <strong>JavaScript</strong> com foco em <strong>React.js</strong> no front-end e <strong>Node.js</strong> no back-end. Também exploro tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong> e <strong>MySQL</strong>, aplicando esses conhecimentos em projetos próprios e acadêmicos.<br><br>
-      Gosto de criar soluções funcionais, que façam sentido na prática. Estou sempre buscando aprender algo novo e colaborar em projetos que causem impacto real.
-    </p>
-  </div>
-  <div style="flex: 1; text-align: center; min-width: 280px;">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" />
-  </div>
+  <div style="flex: 1; min-width: 280px; max-width: 600px;">    
 </div>
 
-<div align="center" style="margin-top: 40px;">
-  <p>Obrigado pela visita! 🚀</p>
 </div>
   <h3>Contact Me</h3>
   <p><em>Feel free to reach out through any of the platforms below:</em></p>
