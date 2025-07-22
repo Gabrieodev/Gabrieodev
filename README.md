@@ -32,7 +32,27 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,mysql,postgres,docker,azure,googlecloud" alt="DevOps e Outras Tecnologias" />
 </div>
 
+---
 
+<div align="left">
+  <h3>👨‍💻 Sobre Mim</h3>
+  <p>
+    Sou desenvolvedor em formação com foco em <strong>Java</strong>, <strong>Angular</strong> e <strong>Spring Boot</strong>, aplicando arquitetura baseada em <strong>microsserviços</strong>. Tenho conhecimento em <strong>Spring Security</strong> para segurança e <strong>testes automatizados</strong> para garantir qualidade e confiabilidade. 
+    Experiência com bancos de dados relacionais como <strong>MySQL</strong> e <strong>PostgreSQL</strong>.
+  </p>
+
+  <p>
+    Também atuo no desenvolvimento front-end com <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong> e <strong>React</strong>, criando interfaces <strong>responsivas</strong> e <strong>funcionais</strong>.
+  </p>
+
+  <p>
+    🤖 Entusiasta e curioso sobre <strong>inteligência artificial</strong>, estou sempre em busca de <strong>novas oportunidades</strong> e <strong>desafios</strong>. Registro meus aprendizados e projetos aqui no GitHub, de repositórios de estudo até soluções completas!
+  </p>
+
+  <p>
+    🚀 Achou interessante? Acesse<a href="https://gabrieodev.github.io/Meu-Portifolio/" target="_blank"><strong> meu portfólio</strong></a> e confira meus projetos! 💼
+  </p>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-top: 60px;">
   <div style="flex: 1; min-width: 280px; max-width: 600px;">    
