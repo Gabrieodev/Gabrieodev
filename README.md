@@ -15,29 +15,24 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
   <li>💡 Desenvolvo projetos autorais, compartilho aprendizados e busco soluções que gerem impacto real.</li>
 </ul>
 
+---
+
 <div align="left">
   <h2>⭐ GitHub Stats</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph.svg">
-</picture>
----
 
 <div align="left">
-  <h2>💻 Tecnologias e Linguagens</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c" alt="Skills" />
+  <h2>💻 Linguagens & Frameworks</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,angular,react,nodejs" alt="Linguagens e Frameworks" />
 
-  <h3>🚀 Frameworks e bibliotecas</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,mysql,postgres" alt="Frameworks" />
-
-  <h3>🛠️ Ferramentas de desenvolvimento</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Ferramentas" />
+  <h2>🛠️ DevOps, Banco de Dados & Outras Tecnologias</h2>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,mysql,postgres,docker,azure,googlecloud" alt="DevOps e Outras Tecnologias" />
 </div>
+
+
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-top: 60px;">
   <div style="flex: 1; min-width: 280px; max-width: 600px;">    
