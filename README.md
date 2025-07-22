@@ -17,18 +17,16 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
 
 <div align="left">
   <h2>⭐ GitHub Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&langs_count=6&theme=dracula" alt="Top Languages"/>
 </div>
 
-<div style="max-width: 900px; margin: 40px auto;">
-  <h2>📚 Meus estudos</h2>
-  <p>
-    Organizo meus aprendizados, anotações e projetos em repositórios aqui no GitHub como forma de acompanhar minha evolução e compartilhar conhecimento com outros devs.
-    Costumo transformar a teoria em prática com desafios, projetos próprios e conteúdos que também publico no LinkedIn e Instagram.
-  </p>
-  <blockquote><em>Acredito que ensinar e compartilhar é uma forma poderosa de aprender ainda mais 🚀</em></blockquote>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabrieodev/Gabrieodev/output/pacman-contribution-graph.svg">
+</picture>
+---
 
 <div align="left">
   <h2>💻 Tecnologias e Linguagens</h2>
