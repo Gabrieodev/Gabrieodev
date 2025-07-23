@@ -19,10 +19,19 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
 
 <div align="left">
   <h2>⭐ GitHub Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+  <img
+    height=200
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=gabrieodev&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+  />
+  <img
+    width=357
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&font=Iosevka&langs_count=6&theme=tokyonight"
+  />
 </div>
-
 
 <div align="left">
   <h2>💻 Linguagens & Frameworks</h2>
