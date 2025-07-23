@@ -60,30 +60,22 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
 
   <p>
     🚀 Achou interessante? Acesse<a href="https://gabrieodev.github.io/Meu-Portifolio/" target="_blank"><strong> meu portfólio</strong></a> e confira meus projetos! 💼
+   
+  ---
+  
   </p>
-</div>
-
- ---
- 
-<div align="left">
-  <h2>📈 Minha Atividade</h2>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrieodev/gabrieodev/output/pacman-contribution-graph-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrieodev/gabrieodev/output/pacman-contribution-graph.svg">
         <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrieodev/gabrieodev/output/pacman-contribution-graph.svg">
     </picture>
-
-  <a href="https://github.com/gabrieodev" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieodev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=39d353&area=true&area_color=161b22&hide_border=true"
-      alt="gabrieodev's github activity graph"
-      height="600"
-      style="max-width: 100%;"
-    />
+</div>
+ 
+<div align="left">
+  <h2>📈 Minha Atividade</h2>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Gráfico de atividade do GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieodev&theme=tokyo-night" style="max-width: 100%; margin-top: 10px;">
   </a>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-top: 60px;">
-  <div style="flex: 1; min-width: 280px; max-width: 600px;">    
 </div>
 
 </div>
