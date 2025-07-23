@@ -78,7 +78,10 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
   </a>
 </div>
 
+<div align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGabrieodev&s=18&c=7aa2f7&bg=00000000&no=4&ff=digi&tb=visitors%3A+&ta=" alt="visits">
 </div>
+
   <h3>Contact Me</h3>
   <p><em>Feel free to reach out through any of the platforms below:</em></p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
