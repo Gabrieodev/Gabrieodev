@@ -46,7 +46,7 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
 <div align="left">
   <h2>👨‍💻 Sobre Mim</h2>
   <p>
-    Sou desenvolvedor em formação com foco em <strong>Java</strong>, <strong>Angular</strong> e <strong>Spring Boot</strong>, aplicando arquitetura baseada em <strong>microsserviços</strong>. Tenho conhecimento em <strong>Spring Security</strong> para segurança e <strong>testes automatizados</strong> para garantir qualidade e confiabilidade. 
+    Dev com foco em <strong>Java</strong>, <strong>Angular</strong> e <strong>Spring Boot</strong>, aplicando arquitetura baseada em <strong>microsserviços</strong>. Tenho conhecimento em <strong>Spring Security</strong> para segurança e <strong>testes automatizados</strong> para garantir qualidade e confiabilidade. 
     Experiência com bancos de dados relacionais como <strong>MySQL</strong> e <strong>PostgreSQL</strong>.
   </p>
 
@@ -89,26 +89,12 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
   <p><em>Obrigado por visitar meu perfil! Vamos construir algo incrível juntos? Me chame por qualquer uma das redes abaixo:</em></p>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
-    <span onclick="location.href='https://wa.me/11943503438'" style="cursor: pointer;">
-      <img src="https://img.shields.io/badge/Whatsapp-282a36?style=for-the-badge&logo=Whatsapp&logoColor=c0caf5" alt="WhatsApp"/>
-    </span>
-    <span onclick="location.href='https://www.linkedin.com/in/gabriazevedo/'" style="cursor: pointer;">
-      <img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=Linkedin&logoColor=c0caf5" alt="LinkedIn"/>
-    </span>
-    <span onclick="location.href='mailto:gab.almeidaazevedol@gmail.com'" style="cursor: pointer;">
-      <img src="https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=Gmail&logoColor=c0caf5" alt="Gmail"/>
-    </span>
-    <span onclick="location.href='https://gabrieodev.github.io/Meu-Portifolio/'" style="cursor: pointer;">
-      <img src="https://img.shields.io/badge/Portfólio-282a36?style=for-the-badge&logo=firefox&logoColor=c0caf5" alt="Portfólio"/>
-    </span>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-1c1f26?style=for-the-badge&logo=gmail&logoColor=c0caf5)](mailto:gab.almeidaazevedol@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-1c1f26?style=for-the-badge&logo=whatsapp&logoColor=c0caf5)](https://wa.me/11943503438)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1f26?style=for-the-badge&logo=linkedin&logoColor=c0caf5)](https://www.linkedin.com/in/gabriazevedo/)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-1c1f26?style=for-the-badge&logo=firefox&logoColor=c0caf5)](https://gabrieodev.github.io/Meu-Portifolio/)
+  
   </div>
 </div>
-
-
-
-
-
-
-
-
 
