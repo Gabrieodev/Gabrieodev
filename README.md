@@ -59,7 +59,7 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
   </p>
 
   <p>
-    🚀 Achou interessante? Acesse<a href="https://gabrieodev.github.io/Meu-Portifolio/" target="_blank"><strong> meu portfólio</strong></a> e confira meus projetos! 💼
+    🚀 Achou interessante? Acesse<a href="https://gabrieodev.github.io/Portfolio/" target="_blank"><strong> meu portfólio</strong></a> e confira meus projetos! 💼
    
   ---
   
