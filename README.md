@@ -44,7 +44,7 @@ Desenvolvedor em formação, graduado em Gestão de TI e atualmente cursando Ci�
 ---
 
 <div align="left">
-  <h2>👨‍💻 Sobre Mim</h2>
+  <h2>👨‍💻 Perfil Técnico</h2>
   <p>
     Dev com foco em <strong>Java</strong>, <strong>Angular</strong> e <strong>Spring Boot</strong>, aplicando arquitetura baseada em <strong>microsserviços</strong>. Tenho conhecimento em <strong>Spring Security</strong> para segurança e <strong>testes automatizados</strong> para garantir qualidade e confiabilidade. 
     Experiência com bancos de dados relacionais como <strong>MySQL</strong> e <strong>PostgreSQL</strong>.
