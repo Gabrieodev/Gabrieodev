@@ -35,10 +35,10 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
 
 <div align="left">
   <h2>💻 Linguagens & Frameworks</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,angular,react,nodejs" alt="Linguagens e Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring" alt="Linguagens e Frameworks" />
 
   <h2>🛠️ DevOps, Banco de Dados & Outras Tecnologias</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,mysql,postgres,docker,azure,googlecloud" alt="DevOps e Outras Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,mysql,postgres,docker,azure,aws" alt="DevOps e Outras Tecnologias" />
 </div>
 
 ---
