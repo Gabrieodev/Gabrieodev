@@ -78,9 +78,9 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
   </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGabrieodev&s=18&c=7aa2f7&bg=00000000&no=4&ff=digi&tb=visitors%3A+&ta=" alt="visits">
-</div>
+</div> -->
 
 ---
 
