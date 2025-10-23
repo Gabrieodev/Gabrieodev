@@ -1,5 +1,5 @@
 <div align="left">
-<h1>Olá, sou Gabriel Azevedo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /></h1>
+<h1>Olá, sou Gabriel Azevedo 👨🏻‍💻</h1>
 
 <p>
 Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente cursando Ciência da Computação. Transformo café em código e ideias em soluções reais. Tenho experiência com Java e Spring Boot, desenvolvendo APIs robustas que conectam sistemas e pessoas. 
