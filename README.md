@@ -19,12 +19,12 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
 
 <div align="left">
   <h2>⭐ GitHub Stats</h2>
-  <img
+  <!-- <img
     height=200
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=gabrieodev&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
-  />
+  /> -->
   <img
     width=357
     align="center"
