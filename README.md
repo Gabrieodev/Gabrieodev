@@ -47,7 +47,7 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
   <h2>👨‍💻 Perfil Técnico</h2>
   <p>
     Dev com foco em <strong>Java</strong>, <strong>Angular</strong> e <strong>Spring Boot</strong>, aplicando arquitetura baseada em <strong>microsserviços</strong>. Tenho conhecimento em <strong>Spring Security</strong> para segurança e <strong>testes automatizados</strong> para garantir qualidade e confiabilidade. 
-    Experiência com bancos de dados relacionais como <strong>MySQL</strong> e <strong>PostgreSQL</strong>.
+    Experiência com bancos de dados relacionais e não relacionais como <strong>MySQL</strong>, <strong>PostgreSQL</strong> e <strong>MongoDB</strong>.
   </p>
 
   <p>
