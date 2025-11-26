@@ -93,7 +93,7 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
   [![Gmail](https://img.shields.io/badge/Gmail-1c1f26?style=for-the-badge&logo=gmail&logoColor=c0caf5)](mailto:gab.almeidaazevedo@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-1c1f26?style=for-the-badge&logo=whatsapp&logoColor=c0caf5)](https://wa.me/11943503438)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1f26?style=for-the-badge&logo=linkedin&logoColor=c0caf5)](https://www.linkedin.com/in/gabriazevedo/)
-  [![Portfólio](https://img.shields.io/badge/Portfólio-1c1f26?style=for-the-badge&logo=firefox&logoColor=c0caf5)](https://gabrieodev.github.io/Meu-Portifolio/)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-1c1f26?style=for-the-badge&logo=firefox&logoColor=c0caf5)](https://gabrieodev.github.io/Portfolio/)
   
   </div>
 </div>
