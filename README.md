@@ -24,13 +24,13 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=gabrieodev&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
-  /> -->
+  /> 
   <img
     width=357
     align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&font=Iosevka&langs_count=6&theme=tokyonight"
-  />
+  /> -->
 </div>
 
 <div align="left">
@@ -38,7 +38,7 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,java,spring" alt="Linguagens e Frameworks" />
 
   <h2>🛠️ DevOps, Banco de Dados & Outras Tecnologias</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,mysql,mongodb,postgres,docker,azure,aws" alt="DevOps e Outras Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,mysql,postgres,docker,azure" alt="DevOps e Outras Tecnologias" />
 </div>
 
 ---
