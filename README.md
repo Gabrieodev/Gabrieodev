@@ -17,7 +17,7 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
 
 ---
 
-<div align="left">
+<!--<div align="left">
   <h2>⭐ GitHub Stats</h2>
   <!-- <img
     height=200
@@ -30,8 +30,8 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
     align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieodev&layout=compact&font=Iosevka&langs_count=6&theme=tokyonight"
-  /> -->
-</div>
+  />
+</div> -->
 
 <div align="left">
   <h2>💻 Linguagens & Frameworks</h2>
