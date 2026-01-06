@@ -47,7 +47,7 @@ Futuro profissional de TI em formação, graduado em Gestão de TI e atualmente 
   <h2>👨‍💻 Perfil Técnico</h2>
   <p>
     Dev com foco em back-end. Tenho conhecimento em <strong>Spring Security</strong> para segurança e <strong>testes automatizados</strong> para garantir qualidade e confiabilidade. 
-    Experiência com bancos de dados relacionais como <strong>MySQL.
+    Experiência com bancos de dados relacionais como <strong>MySQL</strong>.
   </p>
 
   <p>
